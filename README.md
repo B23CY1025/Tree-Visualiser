@@ -1,39 +1,36 @@
 Tree Visualizer Project
 A web-based interactive visualization tool for Binary Trees, Binary Search Trees (BST), and AVL Trees. This project helps users understand tree structures and algorithms through dynamic animations and visual feedback.
 
-Features
-Three Tree Types:
+-->Features<--
+->Three Tree Types:
 
-Binary Tree (Level-Order Insertion)
+1) Binary Tree (Level-Order Insertion)
 
-Binary Search Tree (BST)
+2) Binary Search Tree (BST)
 
-AVL Tree (Self-Balancing BST)
+3) AVL Tree (Self-Balancing BST)
 
-Interactive Operations:
+->Interactive Operations:
 
-Insert nodes with visual feedback
+1) Insert nodes with visual feedback
 
-Delete nodes with animation
+2) Delete nodes with animation
 
-Search for nodes with path highlighting
+3) Search for nodes with path highlighting
 
-Tree traversal animations (Pre-order, In-order, Post-order)
+4) Tree traversal animations (Pre-order, In-order, Post-order)
 
-Reset tree functionality
+5) Reset tree functionality
 
-Visual Elements:
+-->Visual Elements:
 
-Animated node highlighting during operations
+1) Animated node highlighting during operations
 
-Clear visualization of tree structure with connecting lines
+2) Clear visualization of tree structure with connecting lines
 
-Responsive design that works on different screen sizes
+3) Responsive design that works on different screen sizes
 
-Notification messages for user feedback
-
-Files Structure
-Copy
+-->Files Structure<--
 tree-visualizer/
 ├── index.html              # Home page with tree type selection
 ├── htmlbinarytree.html     # Binary Tree visualization page
@@ -45,55 +42,45 @@ tree-visualizer/
 ├── binarytree.js           # Binary Tree implementation
 ├── bst.js                  # BST implementation
 ├── avl.js                  # AVL Tree implementation
-How to Use
+
+-->How to Use<--
 Open index.html in a web browser
 
-Select the type of tree you want to visualize:
+->Select the type of tree you want to visualize:
 
-Binary Tree
+1) Binary Tree
 
-Binary Search Tree (BST)
+2) Binary Search Tree (BST)
 
-AVL Tree
+3) AVL Tree
 
 Use the controls panel to:
 
-Insert values (enter number and click Insert)
+-> Insert values (enter number and click Insert)
 
-Delete values
+-> Delete values
 
-Search for values
+-> Search for values
 
-Perform tree traversals
+-> Perform tree traversals
 
-Reset the tree
+-> Reset the tree
 
-Technical Details
-Pure JavaScript implementation of tree algorithms
+-->Technical Details<--
+-> JavaScript/C++ implementation of tree algorithms
 
-CSS animations for visual feedback
+-> CSS animations for visual feedback
 
-Responsive design using flexbox
+-> Responsive design using flexbox
 
-Object-oriented approach with TreeNode and Tree classes
+-> Object-oriented approach with TreeNode and Tree classes
 
-Visual representation using absolute positioning and SVG-like lines
+-> Visual representation using absolute positioning and SVG-like lines
 
-Requirements
-Modern web browser (Chrome, Firefox, Edge, Safari)
+-->Requirements<--
+-> Modern web browser (Chrome, Firefox, Edge, Safari)
 
-No server required - works directly from file system
-
-Future Improvements
-Add more tree types (Red-Black, Splay, etc.)
-
-Implement additional operations (rotation visualization for AVL)
-
-Add step-by-step explanations
-
-Include balance factor display for AVL trees
-
-Add zoom/pan functionality for large trees
+-> No server required - works directly from file system
 
 License
 This project is open-source and available under the MIT License.
