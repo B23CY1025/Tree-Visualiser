@@ -2,6 +2,7 @@ Tree Visualizer Project
 A web-based interactive visualization tool for Binary Trees, Binary Search Trees (BST), and AVL Trees. This project helps users understand tree structures and algorithms through dynamic animations and visual feedback.
 
 -->Features<--
+
 ->Three Tree Types:
 
 1) Binary Tree (Level-Order Insertion)
