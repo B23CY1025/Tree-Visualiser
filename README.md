@@ -68,7 +68,7 @@ Use the controls panel to:
 -> Reset the tree
 
 -->Technical Details<--
--> JavaScript/C++ implementation of tree algorithms
+-> JavaScript implementation of tree algorithms
 
 -> CSS animations for visual feedback
 
